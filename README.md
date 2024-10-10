@@ -1,4 +1,8 @@
-### Nicholas Gentz\
+### Nicholas Gentz <br>
+---
+#### About me:
+I am a Data Analyst for Mount Sinai South Nassau and currently studying Analytics @ Georgia Tech.
+
 
 <!--
 **nGentz/nGentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
