@@ -1,9 +1,12 @@
 ### Nicholas Gentz <br>
 ---
 #### About me:
-I am a Data Analyst for Mount Sinai South Nassau and currently studying Analytics @gatech.
+I am a Data Analyst for Mount Sinai South Nassau and currently studying Analytics [@gatech](https://github.com/gatech).
 
-Check out [my website](https://www.nickgentz.com/) or reach out to me via email (nickgentz@gmail.com)
+#### Links
+- [my website](https://www.nickgentz.com/)
+- [LinkedIn](https://www.linkedin.com/in/nickgentz/)
+- Email: (nickgentz@gmail.com)
 
 <!--
 **nGentz/nGentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
