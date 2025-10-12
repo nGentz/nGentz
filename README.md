@@ -15,7 +15,7 @@ I am a Data Analyst for Mount Sinai South Nassau and currently studying Analytic
 </details>
 
 ### Links
-- [nickgentz@gmail.com](https://www.nickgentz.com/)
+- [nickgentz.com](https://www.nickgentz.com/)
 - [LinkedIn](https://www.linkedin.com/in/nickgentz/)
 - Email: nickgentz@gmail.com
 
