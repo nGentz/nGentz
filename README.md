@@ -6,6 +6,7 @@
 - 🍎 Located in New York
 - 📊 I love creating data visualizations
 
+
 ### My works
 <details>
 <summary>Show Projects</summary>
@@ -16,6 +17,7 @@
 | Newsvendor Simulation | Monte Carlo optimization app | [GitHub](..) |
 | Tableau data | visualization | [GitHub](..) |
 </details>
+
 
 ### Links
 - [nickgentz.com](https://www.nickgentz.com/)
