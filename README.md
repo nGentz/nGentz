@@ -1,9 +1,20 @@
 ### Nicholas Gentz <br>
 ---
-#### About me:
+### About me:
 I am a Data Analyst for Mount Sinai South Nassau and currently studying Analytics [@gatech](https://github.com/gatech).
 
-#### Links
+### My works
+<details>
+<summary>Show Projects</summary>
+
+| Project | Description | Link |
+|----------|--------------|------|
+| MTA EDA & ML | Subway ridership trends, Random Forest Regression | [GitHub](..) |
+| Newsvendor Simulation | Monte Carlo optimization app | [GitHub](..) |
+| Tableau data | visualization | [GitHub](..) |
+</details>
+
+### Links
 - [nickgentz@gmail.com](https://www.nickgentz.com/)
 - [LinkedIn](https://www.linkedin.com/in/nickgentz/)
 - Email: nickgentz@gmail.com
