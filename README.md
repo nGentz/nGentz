@@ -1,4 +1,4 @@
-### Nicholas Gentz <br>
+## Nicholas Gentz <br>
 ---
 ### About me
 - 🏥 Data Analyst at Mount Sinai South Nassau 
