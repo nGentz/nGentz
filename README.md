@@ -1,5 +1,5 @@
 ## Nicholas Gentz <br>
----
+<!-- --- --!>
 ### About me
 - 🏥 Data Analyst at Mount Sinai South Nassau 
 - 🐝 Studying Analytics [@gatech](https://github.com/gatech)
