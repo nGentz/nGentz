@@ -13,7 +13,7 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| MTA EDA & ML | Subway ridership trends, Random Forest Regression | [GitHub]((https://github.com/nGentz/Subway-Data-Analysis/blob/main/mta_analysis_nb.ipynb) |
+| MTA EDA & ML | Subway ridership trends, Random Forest Regression | [GitHub](https://github.com/nGentz/Subway-Data-Analysis/blob/main/mta_analysis_nb.ipynb) |
 | Newsvendor Simulation | Monte Carlo optimization app | [GitHub](..) |
 | Tableau data | visualization | [Tableau](https://public.tableau.com/app/profile/nicholas.gentz/viz/MomaDataVisualization/Dashboard) |
 </details>
