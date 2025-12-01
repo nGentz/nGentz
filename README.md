@@ -14,7 +14,7 @@
 | Project | Description | Link |
 |----------|--------------|------|
 | MTA EDA & ML | NYC Subway ridership analysis and prediction model | [GitHub](https://github.com/nGentz/Subway-Data-Analysis/blob/main/mta_analysis_nb.ipynb) |
-| Monte Carlo Newsvendor | Implementing Monte Carlo with the Newsvendor Problem | [GitHub](..) |
+| Monte Carlo Newsvendor | Implementing Monte Carlo with the Newsvendor Problem | [GitHub](https://github.com/nGentz/MonteCarloNewsvendor) |
 | MoMA Dasboard | Tableau dashboard to visualize the MoMA's collection | [Tableau](https://public.tableau.com/app/profile/nicholas.gentz/viz/MomaDataVisualization/Dashboard) |
 | Nextra Starter | Open-source portfolio blog starter |  [GitHub](https://github.com/nGentz/nextra-portfolio-blog-starter) |
 </details>
