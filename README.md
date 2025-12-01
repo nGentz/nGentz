@@ -21,8 +21,8 @@
 
 
 ### Links
-- [nickgentz.com](https://www.nickgentz.com/)
-- [LinkedIn/in/nickgentz](https://www.linkedin.com/in/nickgentz/)
+- Website: [nickgentz.com](https://www.nickgentz.com/)
+- LinkedIn: [in/nickgentz](https://www.linkedin.com/in/nickgentz/)
 - Email: nickgentz@gmail.com
 
 <!--
