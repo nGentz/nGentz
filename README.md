@@ -22,7 +22,7 @@
 
 ### Links
 - [nickgentz.com](https://www.nickgentz.com/)
-- [LinkedIn](https://www.linkedin.com/in/nickgentz/)
+- [LinkedIn/in/nickgentz](https://www.linkedin.com/in/nickgentz/)
 - Email: nickgentz@gmail.com
 
 <!--
